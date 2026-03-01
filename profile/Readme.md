@@ -1,7 +1,5 @@
-# Описание *бренда* и *важные публичные документы*
-![Бренд](<https://img.shields.io/badge/Бренд-Cultus%20Tenebrae-black?&labelColor=informational> "Владелец: Изергиль Ван Дер Вельде") \
-![Количество файлов](<https://img.shields.io/github/directory-file-count/Cultus-Tenebrae/.github?logo=github&logoColor=white&logoSize=auto&label=Количество%20файлов&labelColor=important>)
-![Размер репо](<https://img.shields.io/github/repo-size/Cultus-Tenebrae/.github?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо&labelColor=important>)
+# Описание *бренда*
+![Бренд](<https://img.shields.io/badge/Бренд-Cultus%20Tenebrae-black?&labelColor=informational> "Владелец: Изергиль Ван Дер Вельде")
 
 **Cultus&nbsp;Tenebrae** &mdash; ***творческий художественный бренд автора*** &mdash; ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***. ***Бренд** и **все разработки** являются **интеллектуальной собственностью владельца оного***.
 
@@ -14,8 +12,6 @@
 - *Точность*;
 - *Доступность*;
 - *Художественная эстетика*.
-
-***Данный репозиторий** содержит **общедоступные документы бренда*** (***право собственности** и **прочее***).
 - - -
 # Лицензия&nbsp;MIT
 > [!IMPORTANT]
