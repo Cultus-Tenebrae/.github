@@ -2,7 +2,7 @@
 ![Бренд](<https://img.shields.io/badge/Бренд-Cultus%20Tenebrae-black?&labelColor=informational> "Владелец: Изергиль Ван Дер Вельде") \
 [![Discord-сервер](<https://img.shields.io/discord/764977441386528778?logo=discord&logoColor=white&logoSize=auto&label=Discord-сервер&labelColor=informational>)](<https://discord.gg/v7sj43FUqJ> "Перейти к серверу&hellip;")
 
-**Cultus&nbsp;Tenebrae** &mdash; ***творческий художественный бренд автора*** &mdash; ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***. ***Бренд** и **все разработки** являются **интеллектуальной собственностью владельца оного***.
+**Cultus&nbsp;Tenebrae** — ***творческий художественный бренд автора*** — ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***. ***Бренд** и **все разработки** являются **интеллектуальной собственностью владельца оного***.
 
 ![Спонсоры](<https://img.shields.io/github/sponsors/Cultus-Tenebrae?logo=github&logoColor=white&logoSize=auto&label=Спонсоры&labelColor=lime>)
 ![Подписчики](<https://img.shields.io/github/followers/Cultus-Tenebrae?label=Подписчики>)
