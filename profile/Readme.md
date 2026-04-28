@@ -8,7 +8,7 @@
 ![Подписчики](<https://img.shields.io/github/followers/Cultus-Tenebrae?label=Подписчики>)
 ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae?label=Звёзды>)
 
-## Цели *проекта*:
+## Цели *проекта*
 - *Педантичность*;
 - *Точность*;
 - *Доступность*;
