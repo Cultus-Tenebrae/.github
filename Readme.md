@@ -1,7 +1,7 @@
 # Важные публичные документы
-![Документы](<https://img.shields.io/badge/Документы-Cultus%20Tenebrae-black?&labelColor=informational>) \
-![Количество файлов](<https://img.shields.io/github/directory-file-count/Cultus-Tenebrae/.github?logo=github&logoColor=white&logoSize=auto&label=Количество%20файлов&labelColor=important>)
-![Размер репо](<https://img.shields.io/github/repo-size/Cultus-Tenebrae/.github?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо&labelColor=important>)
+![Документы](<https://img.shields.io/badge/Документы-Cultus%20Tenebrae-black?style=for-the-badge&labelColor=informational>) \
+![Количество файлов](<https://img.shields.io/github/directory-file-count/Cultus-Tenebrae/.github?logo=github&logoSize=auto&label=Количество%20файлов>)
+![Размер репо](<https://img.shields.io/github/repo-size/Cultus-Tenebrae/.github?logo=githublogoSize=auto&label=Размер%20репо>)
 
 ***Данный репозиторий** содержит **общедоступные документы бренда*** (***право собственности** и **прочее***).
 - - -
@@ -17,6 +17,6 @@
 > [!NOTE]
 > **Составитель *документа***: ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***.
 > 
-> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/.github?path=Readme.md&display_timestamp=committer&logo=github&logoColor=white&logoSize=auto&label=Дата%20последнего%20внесения%20изменений&labelColor=informational>)
+> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/.github?path=Readme.md&display_timestamp=committer&logo=github&logoSize=auto&label=Дата%20последнего%20внесения%20изменений>)
 - - -
-![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?labelColor=important> "Правообадатель")
+![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?style=for-the-badge&labelColor=important> "Правообадатель")
