@@ -1,10 +1,10 @@
 # Описание *бренда*
-![Бренд](<https://img.shields.io/badge/Бренд-Cultus%20Tenebrae-black?&labelColor=informational> "Владелец: Изергиль Ван Дер Вельде") \
-[![Discord-сервер](<https://img.shields.io/discord/764977441386528778?logo=discord&logoColor=white&logoSize=auto&label=Discord-сервер&labelColor=informational>)](<https://discord.gg/v7sj43FUqJ> "Перейти к серверу&hellip;")
+![Бренд](<https://img.shields.io/badge/Бренд-Cultus%20Tenebrae-black?style=for-the-badge&labelColor=informational> "Владелец — Изергиль Ван Дер Вельде") \
+[![Discord-сервер](<https://img.shields.io/discord/764977441386528778?style=social&logo=discord&logoSize=auto&label=Discord-сервер&labelColor=blue>)](<https://discord.gg/v7sj43FUqJ> "Перейти к серверу&hellip;")
 
 **Cultus&nbsp;Tenebrae** — ***творческий художественный бренд автора*** — ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***. ***Бренд** и **все разработки** являются **интеллектуальной собственностью владельца оного***.
 
-![Спонсоры](<https://img.shields.io/github/sponsors/Cultus-Tenebrae?logo=githubsponsors&logoSize=auto&label=Спонсоры&labelColor=lime>)
+![Спонсоры](<https://img.shields.io/github/sponsors/Cultus-Tenebrae?logo=githubsponsors&logoSize=auto&label=Спонсоры>)
 ![Подписчики](<https://img.shields.io/github/followers/Cultus-Tenebrae?label=Подписчики>)
 ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae?label=Звёзды>)
 
@@ -26,6 +26,6 @@
 > [!NOTE]
 > **Составитель *документа***: ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***.
 > 
-> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/.github?path=profile/Readme.md&display_timestamp=committer&logo=github&logoColor=white&logoSize=auto&label=Дата%20последнего%20внесения%20изменений&labelColor=informational>)
+> ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Cultus-Tenebrae/.github?path=profile/Readme.md&display_timestamp=committer&logo=github&logoSize=auto&label=Дата%20последнего%20внесения%20изменений>)
 - - -
-![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?labelColor=important> "Правообадатель")
+![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Cultus%20Tenebrae-black?style=for-the-badge&labelColor=important> "Правообадатель")
