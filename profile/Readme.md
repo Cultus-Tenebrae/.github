@@ -4,7 +4,7 @@
 
 **Cultus&nbsp;Tenebrae** — ***творческий художественный бренд автора*** — ***Изергиль Ван&nbsp;Дер&nbsp;Вельде***. ***Бренд** и **все разработки** являются **интеллектуальной собственностью владельца оного***.
 
-![Спонсоры](<https://img.shields.io/github/sponsors/Cultus-Tenebrae?logo=githubsponsors&logoSize=auto&label=Спонсоры>)
+![Спонсоры](<https://img.shields.io/github/sponsors/Cultus-Tenebrae?style=social&logo=githubsponsors&logoSize=auto&label=Спонсоры>)
 ![Подписчики](<https://img.shields.io/github/followers/Cultus-Tenebrae?label=Подписчики>)
 ![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae?label=Звёзды>)
 
