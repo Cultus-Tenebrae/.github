@@ -13,6 +13,10 @@
 - ***Точность***;
 - ***Доступность***;
 - ***Художественная эстетика***.
+
+<!-- Слоганы -->
+ > *&laquo;Ave, **Tenebrae**, infinita et aeterna&raquo;.* \
+ > *&laquo;**Haeresis** emundata!&raquo;*
 - - -
 # Лицензия&nbsp;MIT
 > [!IMPORTANT]
